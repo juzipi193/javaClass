@@ -9,6 +9,7 @@ public class gitTest {
         System.out.println("master conflict!");
         System.out.println("push modify");
         System.out.println("push again");
+        System.out.println("pull test");
 
 
     }
