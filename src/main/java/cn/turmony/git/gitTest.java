@@ -10,6 +10,8 @@ public class gitTest {
         System.out.println("push modify");
         System.out.println("push again");
         System.out.println("pull test");
+        System.out.println("pull gitee test");
+
 
 
     }
